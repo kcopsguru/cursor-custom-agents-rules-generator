@@ -1,4 +1,4 @@
-# Architecture for {PRD Title}
+# Targeted Architecture for {PRD Title}
 
 Status: { Draft | Approved }
 
@@ -6,9 +6,17 @@ Status: { Draft | Approved }
 
 { Short 1-2 paragraph }
 
-## Technology Table
+## Architecture Overview
 
-Table listing choices for languages, libraries, infra, etc...
+{
+- Targeted architecture
+- Assumptions and constraints
+- Risks and considerations
+}
+
+## Technology Stack
+
+{ Table listing choices for services, languages, frameworks, libraries, infra, etc...}
 
   <example>
   | Technology | Description |
@@ -74,3 +82,8 @@ Table listing choices for languages, libraries, infra, etc...
 ## Deployment Plan
 
 ## Change Log
+
+## Reference
+
+{ Citations and external urls }
+
